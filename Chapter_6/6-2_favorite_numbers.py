@@ -8,4 +8,4 @@ favorite_numbers = {
 }
 
 for name, number in favorite_numbers.items():
-    print(f"{name}'s favorite number is {number}.")
+    print(f"{name}'s favorite number is {number}.")#I started using the f-string method to format the output, which is more readable and efficient than concatenation.

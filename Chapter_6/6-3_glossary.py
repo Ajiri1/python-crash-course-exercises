@@ -9,4 +9,4 @@ glossary = {
 
 for word, meaning in glossary.items():
     print(f"{word.title()}:")
-    print(f"  {meaning}\n")
+    print(f"\t{meaning}\n")

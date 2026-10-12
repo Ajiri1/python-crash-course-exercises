@@ -6,5 +6,5 @@ person = {
     "city": "Port Harcourt",
 }
 
-for key, value in person.items():
-    print(key.replace('_', ' ').title() + ": " + str(value))
+for ey, valu in person.items():
+    print(ey.replace('_', ' ').title() + ": " + str(valu))

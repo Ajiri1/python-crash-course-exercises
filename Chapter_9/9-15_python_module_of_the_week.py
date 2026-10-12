@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 """Explore a standard-library module; this example uses statistics."""
 import statistics
 

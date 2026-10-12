@@ -7,4 +7,4 @@ person = {
 }
 
 for key, value in person.items():
-    print(f"{key.replace('_', ' ').title()}: {value}")
+    print(key.replace('_', ' ').title() + ": " + str(value))

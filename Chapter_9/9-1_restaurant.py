@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 class Restaurant:
     def __init__(self, restaurant_name, cuisine_type):
         self.restaurant_name = restaurant_name

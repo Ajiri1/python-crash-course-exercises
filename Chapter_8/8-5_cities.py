@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 def describe_city(city, country="Nigeria"):
     print(f"{city.title()} is in {country.title()}.")
 

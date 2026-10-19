@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 def make_album(artist, title, songs=None):
     album = {"artist": artist.title(), "title": title.title()}
     if songs is not None:

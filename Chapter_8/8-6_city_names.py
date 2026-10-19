@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 def city_country(city, country):
     return f"{city.title()}, {country.title()}"
 

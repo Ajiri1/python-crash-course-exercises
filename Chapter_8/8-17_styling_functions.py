@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 """A small example following common function style conventions."""
 
 def describe_pet(animal_type, pet_name):

@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 class Battery:
     def __init__(self, size=75):
         self.size = size

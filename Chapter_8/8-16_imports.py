@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 # Demonstrates common ways to import a function/module.
 from math import sqrt
 import math

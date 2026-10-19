@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 # In a multi-file project, place User and Admin in a separate module and import them.
 class User:
     def __init__(self, username):

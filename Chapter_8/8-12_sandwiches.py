@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 def make_sandwich(*ingredients):
     print("Making a sandwich with:")
     for ingredient in ingredients:

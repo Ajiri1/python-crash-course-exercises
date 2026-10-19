@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 def make_shirt(size="large", message="I love Python"):
     print(f"Shirt size: {size.upper()}")
     print(f"Message: {message}")

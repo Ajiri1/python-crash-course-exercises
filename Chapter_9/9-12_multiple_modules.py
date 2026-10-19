@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 # Demonstrates a simple module-style separation using classes in this file.
 class User:
     def __init__(self, username):

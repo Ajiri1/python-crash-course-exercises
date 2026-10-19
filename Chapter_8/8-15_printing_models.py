@@ -1,9 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
-# This exercise practices importing functions from a separate module.
-# Run this file together with printing_functions.py in the same folder.
-
 def print_models(unprinted_designs, completed_models):
     while unprinted_designs:
         completed_models.append(unprinted_designs.pop())

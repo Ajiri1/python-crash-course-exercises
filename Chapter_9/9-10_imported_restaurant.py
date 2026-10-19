@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 # A self-contained version demonstrating an imported class workflow.
 class Restaurant:
     def __init__(self, name, cuisine):

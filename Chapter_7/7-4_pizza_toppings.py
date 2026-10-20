@@ -1,7 +1,7 @@
 """Exercise 7-4: Pizza Toppings — accept toppings until 'quit'."""
 while True:
     topping = input("Enter a pizza topping (or 'quit' to finish): ").strip()
-    if topping.lower() == "quit":
+    if topping == "quit":
         break
     if topping:
         print(f"I'll add {topping} to your pizza.")

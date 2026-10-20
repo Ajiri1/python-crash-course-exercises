@@ -1,13 +1,11 @@
 """Exercise 7-5: Movie Tickets — calculate ticket cost by age."""
 while True:
     response = input("Enter your age (or 'quit' to finish): ").strip()
-    if response.lower() == "quit":
+    if response == "quit":
         break
-    try:
-        age = int(response)
-    except ValueError:
-        print("Please enter an age as a whole number, or 'quit'.")
-        continue
+    
+    age = int(response)
+
 
     if age < 0:
         print("Age cannot be negative.")

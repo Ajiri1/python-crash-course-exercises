@@ -1,5 +1,5 @@
 def make_shirt(size="large", message="I love Python"):
-    print(f"Shirt size: {size.upper()}")
+    print(f"\nShirt size: {size.upper()}")
     print(f"Message: {message}")
 
 make_shirt()

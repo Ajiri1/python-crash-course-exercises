@@ -1,6 +1,3 @@
-# Python Crash Course — original exercise solution
-# Chapter exercise implementation; examples use Python 3.
-
 from pathlib import Path
 
 path = Path("learning_python.txt")
